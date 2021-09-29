@@ -1,0 +1,47 @@
+Free virtual folio CSS template: https://www.free-css.com/free-css-templates/page269/virtual-folio
+
+Stylesheet & Script
+
+Animate CSS =
+site: https://daneden.github.io/animate.css/
+
+Bootstrap 4 =
+site: https://getbootstrap.com/
+
+Jquery =
+site: https://jquery.com/
+
+Owl Carousel 2 = 
+site: https://owlcarousel2.github.io/OwlCarousel2/
+
+Isotope = 
+site: https://isotope.metafizzy.co
+
+Jquery animateNumber = 
+site: https://github.com/aishek/jquery-animateNumber
+
+Fancybox =
+site: http://fancyapps.com/fancybox/
+
+WOW =
+site: https://wowjs.uk/
+
+Waypoints =
+site: http://imakewebthings.com/waypoints/
+
+========================================================================================
+
+All images/photos
+
+Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1839406">Pexels</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1839406">Pixabay</a>
+https://unsplash.com/
+https://behance.com/
+
+========================================================================================
+
+Font icons
+
+Themify icons =
+site: https://themify.me/themify-icons
+
+
